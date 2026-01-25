@@ -81,4 +81,4 @@ At this scale, software must be maintainable, scalable, and secure. Code that on
 
 ---
 
-*This document was collaboratively prepared by the group for the Software Construction assignment.*
+
