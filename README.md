@@ -298,9 +298,14 @@ We were surprised by the number of interconnected systems required just to play 
 ### 2. Why Working Code Is Not Enough
 At this scale, software must be maintainable, scalable, and secure. Code that only works today may fail as user demands and system requirements evolve.
 
+ **Notes:** Found out that Spotify had a Lite version for lower-end phones, which was discontinued due to the continuing drop in price of flagship phones, allowing almost everyone to have a strong enough phone to run standard Spotify.
+
 ### Group Contributions
-- **Notes:** Found out that Spotify had a Lite version for lower-end phones, which was discontinued due to the continuing drop in price of flagship phones, allowing almost everyone to have a strong enough phone to run standard Spotify.
+- **Aturinda Beinembabazi**: I analyzed the selected mobile application (Spotify) by clearly identifying the problem it solves and its primary target users. I also identified and summarized the core features of the app to provide a high-level understanding of its functionality from a software engineering perspective.
 - **Charis Opol**: I analysed the underlying software components(UI, Business logic, Network/API, Data storage) of each feature. I also defined whether the feature's dependency on internet access, and what would happen if the internet were unstable or unavailable.
+- **Mbabazi Joseph Owen**: I evaluated the change scenario of optimizing the app for low-end smartphones by identifying which parts of the system would require modification, which existing features could be affected, and why implementing this change would be challenging in a large-scale software system.
+- **Kasule Ezra Evans**: I identified and explained key software construction challenges involved in maintaining and improving Spotify, including performance, scalability, reliability under poor network conditions, security and  testing.
+- **Adrian Rugaba Asiimwe**: I focused on the technical organization and maintainability of the project by structuring the documentation in a clear, modular way that mirrors real software development practices. I also supported the team’s use of GitHub by helping create and manage the repository, manage commits, reviewing changes for consistency, and ensuring the documentation accurately reflected versioned updates and collaborative contributions and worked on ensuring the application's long-term maintainability.
 
 ---
 
