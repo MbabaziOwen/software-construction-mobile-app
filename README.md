@@ -12,9 +12,9 @@
 ### 1. App Overview
 
 #### Problem the App Solves
-Spotify addresses the challenge of accessing, discovering, and managing digital music content. Traditionally, users had to purchase, download, and store music files manually. Spotify removes this burden by providing instant access to millions of songs and podcasts through online streaming.
+Spotify addresses the challenge of accessing, discovering, and managing digital music content. Originally, users had to search different websites and applications, which were sometimes unreliable, so as to purchase, download, and store music files. Spotify removes this burden by providing instant access to millions of songs and podcasts within a single application through online streaming.
 
-From a software construction perspective, Spotify abstracts complex systems such as content storage, copyright enforcement, recommendation algorithms, and network streaming into a single user-friendly application.
+From a software construction perspective, Spotify draws complex systems such as content storage, copyright enforcement, algorithms for user recommendations, and network streaming into a single user-friendly application.
 
 #### Primary Users
 Spotify serves multiple categories of users:
@@ -23,13 +23,13 @@ Spotify serves multiple categories of users:
 - Artists and content creators who upload and analyze content
 - Podcast listeners
 
-Supporting diverse user groups increases system complexity and requires careful architectural design.
+However, supporting diverse user groups increases system complexity and requires careful architectural design.
 
 ## 2. Core Features of Spotify (5–7)
 
 The following are seven key features of Spotify that clearly expose its underlying software architecture:
 
-1. User Authentication (login and registration) and User Profiles  
+1. User Authentication such as login and registration, and User Profiles  
 2. Music Streaming (Play, Pause, Seek)  
 3. Music Search and Discovery  
 4. Managing Playlists (Create, Edit, Share)  
@@ -301,7 +301,7 @@ At this scale, software must be maintainable, scalable, and secure. Code that on
  **Notes:** Found out that Spotify had a Lite version for lower-end phones, which was discontinued due to the continuing drop in price of flagship phones, allowing almost everyone to have a strong enough phone to run standard Spotify.
 
 ### Group Contributions
-- **Aturinda Beinembabazi**: I analyzed the selected mobile application (Spotify) by clearly identifying the problem it solves and its primary target users. I also identified and summarized the core features of the app to provide a high-level understanding of its functionality from a software engineering perspective.
+- **Aturinda Beinembabazi**: I analyzed the selected mobile application, Spotify, by identifying the problem it solves and its primary target users. I also identified and summarized the core features of the app to provide a high-level understanding of its functionality from a software engineering perspective. Knowing who uses this application and why helped us to identify which features to focus on for optimization.
 - **Charis Opol**: I analysed the underlying software components(UI, Business logic, Network/API, Data storage) of each feature. I also defined whether the feature's dependency on internet access, and what would happen if the internet were unstable or unavailable.
 - **Mbabazi Joseph Owen**: I evaluated the change scenario of optimizing the app for low-end smartphones by identifying which parts of the system would require modification, which existing features could be affected, and why implementing this change would be challenging in a large-scale software system.
 - **Kasule Ezra Evans**: I identified and explained key software construction challenges involved in maintaining and improving Spotify, including performance, scalability, reliability under poor network conditions, security and  testing.
