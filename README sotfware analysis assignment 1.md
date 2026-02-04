@@ -377,15 +377,6 @@ However, AI should not replace learning. Developers still need to think critical
 
 ---
 
-## Author
 
-**Owen Mbabazi**  
-Computer Science Student
-
----
-
-## License
-
-This repository is intended for educational purposes.
 
 
