@@ -308,7 +308,7 @@ At this scale, software must be maintainable, scalable, and secure. Code that on
 - **Adrian Rugaba Asiimwe**: I focused on the technical organization and maintainability of the project by structuring the documentation in a clear, modular way that mirrors real software development practices. I also supported the team’s use of GitHub by helping create and manage the repository, manage commits, reviewing changes for consistency, and ensuring the documentation accurately reflected versioned updates and collaborative contributions and worked on ensuring the application's long-term maintainability.
 
 ---
-# Understanding Software Construction and Collaboration
+# Understanding Software Construction and Collaboration  ASSIGNMENT 2 
 
 This repository contains written explanations and reflections on key concepts in **software construction**, **team collaboration**, and the **responsible use of AI in software development**.
 
