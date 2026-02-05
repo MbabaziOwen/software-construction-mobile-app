@@ -40,16 +40,17 @@ Version control is a system used by developer teams to track and manage changes 
 - It enables rollback and disaster recovery allowing developers to revert to the previous stable version instantly. 
 ---
 
-## 4. How Code Reviews Improve Software Quality and Developer Skills
+## 4. How Code Reviews Improve Both Software Quality and Developer Skills
 
-Code reviews involve developers checking each other’s code before it becomes part of the main project.
+Code reviews involve developers checking each other's code before it becomes part of the main project. 
 
-This process improves software quality by:
+This improves software quality by:
 - Catching bugs early
 - Improving code readability
+- Ensuring clear documentation
 - Ensuring coding standards are followed
 
-Code reviews also help developers learn from one another. Junior developers gain feedback and guidance, while experienced developers reinforce best practices. Over time, this shared learning improves both individual skills and the overall quality of the software.
+Code reviews also help developers learn from one another. Junior developers receive feedback and guidance on the code they have worked on, while experienced developers reinforce best practices. Over time, this shared learning improves both individual skills and the overall quality of the sofware. 
 
 ---
 
