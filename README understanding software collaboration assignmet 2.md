@@ -55,15 +55,13 @@ Code reviews also help developers learn from one another. Junior developers gain
 
 ## 5. How AI Can Help Without Replacing Learning
 
-Artificial Intelligence can help developers understand code by:
-- Explaining what a piece of code does
-- Suggesting improvements
-- Pointing out possible errors
+Artificial Intelligence is very powerful and can help students understand code and write better programs faster, but there is a risk if it replaces learning, especially when students copy solutions without understanding them. However, AI can support learning when used correctly.
 
-This makes learning faster and reduces frustration.
+One way is by using AI as a programming tutor. When AI explains concepts or code, it lowers the entry difficulty but does not remove the need to think through the concepts and wrestle with them. This is effective when students ask questions such as “Why does this work this way?”, “What other approaches can I use?”, or “Why did this error occur?” rather than simply asking AI to fix the code.
 
-However, AI should not replace learning. Developers still need to think critically, practice writing code, and understand concepts themselves. AI works best as a support tool—similar to a tutor—helping learners understand ideas while they continue to develop their own problem-solving skills. Unfortunately to date, AI misuse is resulting in false developers who lack capacity for critical thinking and problem solving which AI is not capable of.
+AI can also be used as an extension of the human mind by helping explore the solution space. In this case, the student defines the problem and constraints, while taking responsibility to judge and scrutinize the output instead of accepting it blindly. Additionally, AI can act as a sparring partner for ideas, helping students articulate and clarify their understanding, which reveals whether real learning has taken place.
 
+Ultimately, independent thinking is preserved when AI is used upstream for planning, questioning, and critiquing ideas, rather than downstream for copying and pasting final answers.
 ---
 
 
