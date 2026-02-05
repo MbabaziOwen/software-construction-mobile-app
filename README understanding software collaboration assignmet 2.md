@@ -22,12 +22,13 @@ A program may work today, but well-constructed software continues to work and im
 ## 2. Problems Caused by Poor Maintainability
 
 Poor maintainability occurs when software is difficult to understand, modify, or fix. This can lead to serious problems, especially as the system grows or changes hands.
+One of the clear cut problems in poor maintainability is lack of proper documentation.
 
 ### Example Situation
 
-Imagine a hospital management system written without clear structure or documentation. If the original developer leaves and a bug appears in the patient records module, new developers may struggle to understand the code.
+Imagine a hospital management system written without clear structure or documentation. If the original developer leaves and a bug appears in the patient records module, new developers may struggle to understand the code. Documentation also allows future developers run through and make  updates towards the code ad without proper structure, this becomes costly and time consuming to fix bugs and make updates.
 
-This could delay fixing the issue, cause incorrect patient data, and even affect medical decisions. Poor maintainability increases costs, risks, and system downtime.
+And in the field of medicine as stated in the example, fast fixing of bugs and quick mindful updates are neede to maintain the current standing structure and organization of the softawre used in the field hence forth delays fixing the issue, cause incorrect patient data, and even affect medical decisions. Poor maintainability increases costs, risks, and system downtime.
 
 ---
 
