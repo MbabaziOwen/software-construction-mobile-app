@@ -33,12 +33,11 @@ This could delay fixing the issue, cause incorrect patient data, and even affect
 
 ## 3. Importance of Version Control in Team-Based Development
 
-Version control is a system that tracks changes to code over time and allows multiple developers to work on the same project safely.
-
-In team-based development, version control is critical because it prevents developers from overwriting each other’s work. It also allows teams to see who made changes, when they were made, and why.
-
-If a mistake is introduced, the team can easily return to an earlier, stable version of the software. Tools like **Git** help teams collaborate efficiently and confidently.
-
+Version control is a system used by developer teams to track and manage changes to code over time.
+- It enables collaboration without conflicts allowing multiple developers to work on the same codebase without overwriting each other's work
+- It keeps a complete history tracking every change with who, what and why the change was made simplifying troubleshooting and fixing bugs.
+- it allows safe experimentation as developers can create branches for new features or experiments without affecting the main codebase.
+- It enables rollback and disaster recovery allowing developers to revert to the previous stable version instantly. 
 ---
 
 ## 4. How Code Reviews Improve Software Quality and Developer Skills
