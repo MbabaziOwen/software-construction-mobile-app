@@ -63,7 +63,7 @@ Artificial Intelligence can help developers understand code by:
 
 This makes learning faster and reduces frustration.
 
-However, AI should not replace learning. Developers still need to think critically, practice writing code, and understand concepts themselves. AI works best as a support tool—similar to a tutor—helping learners understand ideas while they continue to develop their own problem-solving skills.
+However, AI should not replace learning. Developers still need to think critically, practice writing code, and understand concepts themselves. AI works best as a support tool—similar to a tutor—helping learners understand ideas while they continue to develop their own problem-solving skills. Unfortunately to date, AI misuse is resulting in false developers who lack capacity for critical thinking and problem solving which AI is not capable of.
 
 ---
 
